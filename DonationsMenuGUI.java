@@ -5,8 +5,9 @@
 package foodshare.donations;
 import foodshare.MainMenuGUI;
 /**
- *
- * @author suzam
+ * FoodShare: UN SDG 2 (Zero Hunger)
+ * @author: Suzanne Soares
+ * student number: x25130137
  */
 public class DonationsMenuGUI extends javax.swing.JFrame {
     
