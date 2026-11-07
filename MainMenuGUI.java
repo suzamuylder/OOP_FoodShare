@@ -4,12 +4,13 @@
  */
 package foodshare;
 import foodshare.donations.DonationsMenuGUI;
+import foodshare.FoodBank.FoodBankMenuGUI;
 import javax.swing.JOptionPane;
 
 /**
  * FoodShare: UN SDG 2 (Zero Hunger)
- * @authors: Suzanne Soares, ., .
- * student numbers: x25130137, ., .
+ * @authors: Suzanne Soares, Nadia Rahman, .
+ * student numbers: x25130137, x25416202, .
  */
 public class MainMenuGUI extends javax.swing.JFrame {
     
@@ -97,6 +98,8 @@ public class MainMenuGUI extends javax.swing.JFrame {
 
     private void foodBanksBTNActionPerformed(java.awt.event.ActionEvent evt) {                                             
         // TODO add your handling code here:
+        new FoodBankMenuGUI().setVisible(true);
+        this.dispose();
     }                                            
 
     private void requestsBTNActionPerformed(java.awt.event.ActionEvent evt) {                                            
