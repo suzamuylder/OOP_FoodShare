@@ -129,11 +129,11 @@ public class ViewLocationsGUI extends javax.swing.JFrame {
 
     private void searchBtnActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_searchBtnActionPerformed
         // TODO add your handling code here:
+         javax.swing.JOptionPane.showMessageDialog(this,"Save functionality will be available in Checkpoint 3.");
     }//GEN-LAST:event_searchBtnActionPerformed
 
     private void searchTxtActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_searchTxtActionPerformed
         // TODO add your handling code here:
-        javax.swing.JOptionPane.showMessageDialog(this,"Save functionality will be available in Checkpoint 3.");
     }//GEN-LAST:event_searchTxtActionPerformed
 
     private void backBtnActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_backBtnActionPerformed
