@@ -5,6 +5,7 @@
 package foodshare;
 import foodshare.donations.DonationsMenuGUI;
 import foodshare.FoodBank.FoodBankMenuGUI;
+import foodshare.requests.RequestsMenuGUI
 import javax.swing.JOptionPane;
 
 /**
@@ -104,6 +105,8 @@ public class MainMenuGUI extends javax.swing.JFrame {
 
     private void requestsBTNActionPerformed(java.awt.event.ActionEvent evt) {                                            
         // TODO add your handling code here:
+         new RequestsMenuGUI().setVisible(true);
+         this.dispose();
     }                                           
 
     /**
