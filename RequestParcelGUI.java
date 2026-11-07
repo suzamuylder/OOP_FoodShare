@@ -6,7 +6,7 @@ package foodshare.requests;
 
 /**
  *
- * @author jisna
+ * @author jisna jose, x24229253
  */
 public class RequestParcelGUI extends javax.swing.JFrame {
     
