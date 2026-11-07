@@ -6,8 +6,8 @@ package foodshare;
 
 /**
  * FoodShare: UN SDG 2 (Zero Hunger)
- * @authors: Suzanne Soares, Nadia Rahman, .
- * student numbers: x25130137, x25416202, .
+ * @authors: Suzanne Soares, Nadia Rahman,Jisna Jose .
+ * student numbers: x25130137, x25416202, x24229253 .
  */
 public class FoodShareApp {
 
