@@ -6,7 +6,7 @@ package foodshare.requests;
 
 /**
  *
- * @author jisna
+ * @author jisna jose , x24229252
  */
 public class RegisterUserGUI extends javax.swing.JFrame {
     
