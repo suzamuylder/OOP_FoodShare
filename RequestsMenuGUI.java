@@ -7,7 +7,7 @@ import foodshare.MainMenuGUI;
 
 /**
  *
- * @author jisna
+ * @author jisna jose, x24229253
  */
 public class RequestsMenuGUI extends javax.swing.JFrame {
     
